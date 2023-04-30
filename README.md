@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lap1nStan1slav
-- 👀 I’m interested in C++, 3D s max, Unity
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C#, Python, 3D s max
+- 🌱 I’m currently learning Python
